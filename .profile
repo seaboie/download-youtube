@@ -1,0 +1,7 @@
+
+alias ytmp4='yt-dlp -P ~/Documents/video -f "bv*[vcodec^=avc1][height<=2160]+ba[acodec^=mp4a]/b[ext=mp4]" -i --embed-subs --write-auto-subs --sub-langs "en.*,en" --sub-format "srt/best" --convert-subs srt --embed-thumbnail --embed-metadata -o "%(upload_date)s - %(title).60s [%(id)s].%(ext)s"'
+
+
+
+
+alias ytmp3='yt-dlp -P "~/Documents/audio/" --extract-audio --audio-format mp3 --audio-quality 0 --embed-thumbnail --add-metadata -o "%(upload_date)s - %(title).60s [%(id)s].%(ext)s"'
