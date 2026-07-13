@@ -52,6 +52,10 @@ alias ytmp3='yt-dlp -P "~/Documents/audio/" --extract-audio --audio-format mp3 -
 
 - กด `Esc`เพื่อออกจากโหมดแทรก
 - พิมพ์ `:wq` แล้วกด `Enter` ( บันทึก และ ออก)
+- 🛠️ Run คำสั่งเพื่อ refresh Terminal ทุกครั้งที่มีการแก้ไขโค้ด
+```
+source .profile
+```
 
 ---
 
