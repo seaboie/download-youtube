@@ -97,7 +97,7 @@ source .profile
    ```
    ผลลัพธ์จะแสดงแบบนี้:
    ```
-   lrwxrwxrwx 1 user group 11 Jul 13 12:00 target -> source
+   lrwxrwxrwx 1 user group 11 Jul 13 12:00 target -> source`
    ```
    (`->` จะแสดงว่าลิงก์ชี้ไปที่ไหน)
 
@@ -129,7 +129,7 @@ d/.profile
 ```
 > `.profile -> /private/var/mobile/Container/Data/Application/............`
 
-- สร้าง `symlink` เสร็จแล้ว
+- ✨ ✨ ✨ สร้าง `symlink` เสร็จแล้ว
 ---
 
 ### 
