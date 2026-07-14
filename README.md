@@ -30,10 +30,23 @@
    ```bash
    yt-dlp --version
    ```
-4. ไปที่ตั้งค่า เลือก `Settings` ใน `Shortcuts app` เปลี่ยนแปลงการตั้งค่า
-[]()
-[]()
-[]()
+4. ไปที่ตั้งค่าใน `iPhone` หรือ `iPad` เลือก `Settings` ใน `Shortcuts app` เปลี่ยนแปลงการตั้งค่า
+> เลือก `Settings`  
+
+🛠️ หา Icon Shortcuts app : แล้ว Click เข้าไป
+
+![หาแอปคำสั้งลัด](https://raw.githubusercontent.com/seaboie/download-youtube/main/image/IMG_1245.jpg)  
+
+---  
+- คลิกที่คำสั่งลัด  
+
+![](https://raw.githubusercontent.com/seaboie/download-youtube/main/image/IMG_1244.jpg)
+
+---  
+
+- เลือก `ขั้นสูง`
+
+![](https://raw.githubusercontent.com/seaboie/download-youtube/main/image/IMG_1243.jpg)
 
 ---
 
